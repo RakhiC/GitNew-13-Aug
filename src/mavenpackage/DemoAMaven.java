@@ -9,7 +9,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
 public class DemoAMaven {
-	ExtentReports e = new ExtentReports("./extentReport.html");
+	ExtentReports e = new ExtentReports("./ExtentReport/extentReport.html");
 	@Test
 	public void testA()
 	{
