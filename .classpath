@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="jars/jcommander.jar"/>
+	<classpathentry kind="lib" path="jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="jars/snakeyaml.jar"/>
+	<classpathentry kind="lib" path="jars/testng.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
